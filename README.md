@@ -17,6 +17,7 @@ The project is integrated ECMAScript 6 (ES6) and ESLint
 
 - Run server (run eslint automatically): npm start
 
-# Use loopback-cli: http://loopback.io/doc/en/lb3/Command-line-tools.html
-Example: Create new model:
-lb model modelName
+# Use loopback-cli
+
+- Follow this: http://loopback.io/doc/en/lb3/Command-line-tools.html
+- Example: Create new model: lb model modelName
