@@ -16,6 +16,8 @@ The project is integrated ECMAScript 6 (ES6) and ESLint
 # Run
 
 - Run server (run eslint automatically): npm start
+- If no errors are found by ESLint, the api server will start at http://localhost:3000
+- Check api swagger (opening on development mode): http://localhost:3000/explorer
 
 # Use loopback-cli
 
